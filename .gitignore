@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+appsettings.*.json
+secrets.json
+*.pem
+*.key
+bin/
+obj/
+.vs/
+.idea/
+__pycache__/
